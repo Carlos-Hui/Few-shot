@@ -2,12 +2,6 @@
 Graph Embedding and Optimal Transport for Few-Shot Classification of Metal Surface Defect
 <https://ieeexplore.ieee.org/document/9761830?source=authoralert>
 
-Requirements
-
-To install requirements:
-
-           pip install -r requirements.txt
-
 Dataset:
 
 link：https://pan.baidu.com/s/14-x_blzNvtY7N5Ue1U2skw password：z584
