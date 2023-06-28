@@ -55,4 +55,4 @@ cross-domain setting2 :
 
            1-shot: k=10 kappa=1 beta=0.7 5-shot: k=4 kappa=1 beta=0.5
 
-Contact the author e-mail：1900412@neu.edu.cn or 2878570391@qq.com
+Contact the author e-mail：liaohui1721@mails.jlu.edu.cn or 3404270260@qq.com
