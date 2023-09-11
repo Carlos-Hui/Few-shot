@@ -10,14 +10,6 @@ Code：
 
 link：https://pan.baidu.com/s/1H9ohxDf2qwxKkHgj9UQa2A password：aoi3 
 
-Datasets split:
-           
-           Move the datafile to dataset/
-           Run 'python write_dataset_filelist.py'
-  
-           
-
-
 Training
 
 To train the feature extractors in the paper, run this command:
